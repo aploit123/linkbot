@@ -21,7 +21,7 @@ const client = new Discord.Client();
               const Embed11 = new Discord.RichEmbed()
         .setColor("RANDOM")
         
-    .setDescription("** 3 دة الرابط : ساعه | عدد استخدامات الرابط :  **")
+    .setDescription("** 3 دة الرابط  ساعه | عدد استخدامات الرابط :  **")
       message.author.sendEmbed(Embed11)
     }
 }); 

@@ -75,4 +75,4 @@ if (message.content.startsWith(adminprefix + 'st')) {
 
 });
 
-client.login("ss")
+client.login(process.env.BOT_TOKEN)
